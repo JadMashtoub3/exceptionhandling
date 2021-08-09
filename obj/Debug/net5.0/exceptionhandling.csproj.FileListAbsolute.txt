@@ -1,0 +1,16 @@
+C:\Users\Jad\Desktop\Github stuff\exceptionhandling\bin\Debug\net5.0\exceptionhandling.exe
+C:\Users\Jad\Desktop\Github stuff\exceptionhandling\bin\Debug\net5.0\exceptionhandling.deps.json
+C:\Users\Jad\Desktop\Github stuff\exceptionhandling\bin\Debug\net5.0\exceptionhandling.runtimeconfig.json
+C:\Users\Jad\Desktop\Github stuff\exceptionhandling\bin\Debug\net5.0\exceptionhandling.runtimeconfig.dev.json
+C:\Users\Jad\Desktop\Github stuff\exceptionhandling\bin\Debug\net5.0\exceptionhandling.dll
+C:\Users\Jad\Desktop\Github stuff\exceptionhandling\bin\Debug\net5.0\ref\exceptionhandling.dll
+C:\Users\Jad\Desktop\Github stuff\exceptionhandling\bin\Debug\net5.0\exceptionhandling.pdb
+C:\Users\Jad\Desktop\Github stuff\exceptionhandling\obj\Debug\net5.0\exceptionhandling.csprojAssemblyReference.cache
+C:\Users\Jad\Desktop\Github stuff\exceptionhandling\obj\Debug\net5.0\exceptionhandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jad\Desktop\Github stuff\exceptionhandling\obj\Debug\net5.0\exceptionhandling.AssemblyInfoInputs.cache
+C:\Users\Jad\Desktop\Github stuff\exceptionhandling\obj\Debug\net5.0\exceptionhandling.AssemblyInfo.cs
+C:\Users\Jad\Desktop\Github stuff\exceptionhandling\obj\Debug\net5.0\exceptionhandling.csproj.CoreCompileInputs.cache
+C:\Users\Jad\Desktop\Github stuff\exceptionhandling\obj\Debug\net5.0\exceptionhandling.dll
+C:\Users\Jad\Desktop\Github stuff\exceptionhandling\obj\Debug\net5.0\ref\exceptionhandling.dll
+C:\Users\Jad\Desktop\Github stuff\exceptionhandling\obj\Debug\net5.0\exceptionhandling.pdb
+C:\Users\Jad\Desktop\Github stuff\exceptionhandling\obj\Debug\net5.0\exceptionhandling.genruntimeconfig.cache
